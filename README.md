@@ -1,4 +1,4 @@
-The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set
+                                               Getting and Cleaning Data Project
 
 ==Criteria==
 1. The submitted data set is tidy.
