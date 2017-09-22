@@ -1,4 +1,4 @@
-                                                    Code Book
+Code Book
 
 ==Data==
 
