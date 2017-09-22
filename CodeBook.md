@@ -2,11 +2,11 @@
 
 ==Data==
 
-  activity - dataset from "activity_labells.txt" file
+    activity - dataset from "activity_labells.txt" file
 
-  big_data - merged test and training datasets
+    big_data - merged test and training datasets
 
-  merged_data - big_data + activity dataset
+    merged_data - big_data + activity dataset
 
   test_data - one dataset with all information about only test data
 
@@ -26,4 +26,4 @@
 
   train_sub - train subject id dataset from "subject_train.txt" file
 
-    ==Values==
+==Values==
