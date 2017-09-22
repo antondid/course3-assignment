@@ -82,4 +82,12 @@ tBodyGyroJerkMean
 
 The complete list of variables of each feature vector is available in 'features.txt'
 
+==Analysis==
 
+Tese are the main steps in script:
+    1. Getting and reading data
+    2. Cleaning train set
+    3. Cleaning test set
+    4. Merging test and train datasets
+    5. Making merged dataset tidy
+    6. Extracting the second dataset from the first one with specific conditions
