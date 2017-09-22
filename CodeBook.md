@@ -92,3 +92,7 @@ Tese are the main steps in script:
     4. Merging test and train datasets
     5. Making merged dataset tidy
     6. Extracting the second dataset from the first one with specific conditions
+
+More information in run_analysis.R file
+
+Thank you!
