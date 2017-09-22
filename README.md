@@ -35,4 +35,13 @@ Data set: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20H
 ==Analysis==
 
 run_analysis.R takes the input data and creates the tidy_data.txt file as output
+Firstly script downloads and unzips the data archive. After that it reads Features file and extracts onle mean and std columns. Then it reads Activity file and renames the columns. After that comes a big part with working in training and testing sets, in the end script merges it into much bigger one. Final step is making fine names for the columns and creating a tidy_data.txt set.
+
+==Output==
+
+tidy_data.txt
+
+==CodeBook==
+
+File wich describes all the variables, datasets and its changes.
 
