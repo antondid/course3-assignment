@@ -85,6 +85,7 @@ The complete list of variables of each feature vector is available in 'features.
 ==Analysis==
 
 Tese are the main steps in script:
+
     1. Getting and reading data
     2. Cleaning train set
     3. Cleaning test set
